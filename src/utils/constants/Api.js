@@ -1,4 +1,4 @@
-const GOOGLE_API = 'AIzaSyC6phCXyB0KVtS7XDRX4-eEhj7SZYs7F9I'
+const GOOGLE_API = ''
 
 export const youtubeApi = 'https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=50&regionCode=IN&key=' + GOOGLE_API ;
 
